@@ -5,7 +5,7 @@
 nama = input("masukan nama anda :")
 if nama=="Cahyadin" :
     print("selamat datang Cahyadin NIM anda adalah")
-    print("25241081")
+    print("25241082")
 
 else :
     print("nama salah")
